@@ -194,7 +194,7 @@ Data persists in `backend/expenses.db` and survives app restarts.
 
 ### 1. Project Dashboard
 
-![Project Dashboard](screenshots/expencephoto1.png)
+![Project Dashboard](screenshots/expensephoto1.png)
 
 ### 2. Project Interface
 
